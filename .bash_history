@@ -44,3 +44,18 @@ ll
 git push pay --all
 git remote add pay https://github.com/mylandmarktek31/walmart 
 git push pay --all
+ll
+git init
+git status
+git commit -a -m "commit march 28"
+git pull https://github.com/mylandmarktek31/walmart master
+git commit -a -m "commit march 28"
+git add .
+git status
+git commit -a -m "commit march 28"
+git remote add pay https://github.com/mylandmarktek31/walmart
+git remote add payment-service https://github.com/mylandmarktek31/walmart
+git push payment-service --all
+history
+vim --version
+vim -version
