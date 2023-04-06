@@ -11,8 +11,10 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
+:wq!
+|2,0,1680760041,,"wq!"
 :wq
-|2,0,1680758703,,"wq"
+|2,0,1680760029,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,24 +27,42 @@
 # Registers:
 
 # File marks:
-'0  67  13  ~/maven-history.java
-|4,48,67,13,1680758703,"~/maven-history.java"
-'1  66  13  ~/tomcat-history.java
-|4,49,66,13,1680758274,"~/tomcat-history.java"
-'2  34  6  ~/chris/group12.yml
-|4,50,34,6,1680579748,"~/chris/group12.yml"
-'3  4  8  ~/benson.sh
-|4,51,4,8,1680573080,"~/benson.sh"
+'0  39  13  ~/git-history.sh
+|4,48,39,13,1680760041,"~/git-history.sh"
+'1  67  13  ~/maven-history.java
+|4,49,67,13,1680758703,"~/maven-history.java"
+'2  66  13  ~/tomcat-history.java
+|4,50,66,13,1680758274,"~/tomcat-history.java"
+'3  34  6  ~/chris/group12.yml
+|4,51,34,6,1680579748,"~/chris/group12.yml"
+'4  4  8  ~/benson.sh
+|4,52,4,8,1680573080,"~/benson.sh"
 
 # Jumplist (newest first):
+-'  39  13  ~/git-history.sh
+|4,39,39,13,1680760041,"~/git-history.sh"
+-'  1  0  ~/git-history.sh
+|4,39,1,0,1680759661,"~/git-history.sh"
 -'  67  13  ~/maven-history.java
 |4,39,67,13,1680758703,"~/maven-history.java"
+-'  67  13  ~/maven-history.java
+|4,39,67,13,1680758703,"~/maven-history.java"
+-'  1  0  ~/maven-history.java
+|4,39,1,0,1680758695,"~/maven-history.java"
 -'  1  0  ~/maven-history.java
 |4,39,1,0,1680758695,"~/maven-history.java"
 -'  66  13  ~/tomcat-history.java
 |4,39,66,13,1680758274,"~/tomcat-history.java"
 -'  66  13  ~/tomcat-history.java
 |4,39,66,13,1680758274,"~/tomcat-history.java"
+-'  66  13  ~/tomcat-history.java
+|4,39,66,13,1680758274,"~/tomcat-history.java"
+-'  66  13  ~/tomcat-history.java
+|4,39,66,13,1680758274,"~/tomcat-history.java"
+-'  1  0  ~/tomcat-history.java
+|4,39,1,0,1680758258,"~/tomcat-history.java"
+-'  1  0  ~/tomcat-history.java
+|4,39,1,0,1680758258,"~/tomcat-history.java"
 -'  1  0  ~/tomcat-history.java
 |4,39,1,0,1680758258,"~/tomcat-history.java"
 -'  1  0  ~/tomcat-history.java
@@ -55,6 +75,22 @@
 |4,39,34,6,1680579748,"~/chris/group12.yml"
 -'  34  6  ~/chris/group12.yml
 |4,39,34,6,1680579748,"~/chris/group12.yml"
+-'  34  6  ~/chris/group12.yml
+|4,39,34,6,1680579748,"~/chris/group12.yml"
+-'  34  6  ~/chris/group12.yml
+|4,39,34,6,1680579748,"~/chris/group12.yml"
+-'  34  6  ~/chris/group12.yml
+|4,39,34,6,1680579748,"~/chris/group12.yml"
+-'  34  6  ~/chris/group12.yml
+|4,39,34,6,1680579748,"~/chris/group12.yml"
+-'  1  0  ~/chris/group12.yml
+|4,39,1,0,1680579714,"~/chris/group12.yml"
+-'  1  0  ~/chris/group12.yml
+|4,39,1,0,1680579714,"~/chris/group12.yml"
+-'  1  0  ~/chris/group12.yml
+|4,39,1,0,1680579714,"~/chris/group12.yml"
+-'  1  0  ~/chris/group12.yml
+|4,39,1,0,1680579714,"~/chris/group12.yml"
 -'  1  0  ~/chris/group12.yml
 |4,39,1,0,1680579714,"~/chris/group12.yml"
 -'  1  0  ~/chris/group12.yml
@@ -79,6 +115,38 @@
 |4,39,4,8,1680573080,"~/benson.sh"
 -'  4  8  ~/benson.sh
 |4,39,4,8,1680573080,"~/benson.sh"
+-'  4  8  ~/benson.sh
+|4,39,4,8,1680573080,"~/benson.sh"
+-'  4  8  ~/benson.sh
+|4,39,4,8,1680573080,"~/benson.sh"
+-'  4  8  ~/benson.sh
+|4,39,4,8,1680573080,"~/benson.sh"
+-'  4  8  ~/benson.sh
+|4,39,4,8,1680573080,"~/benson.sh"
+-'  4  8  ~/benson.sh
+|4,39,4,8,1680573080,"~/benson.sh"
+-'  4  8  ~/benson.sh
+|4,39,4,8,1680573080,"~/benson.sh"
+-'  4  8  ~/benson.sh
+|4,39,4,8,1680573080,"~/benson.sh"
+-'  4  8  ~/benson.sh
+|4,39,4,8,1680573080,"~/benson.sh"
+-'  1  0  ~/benson.sh
+|4,39,1,0,1680573043,"~/benson.sh"
+-'  1  0  ~/benson.sh
+|4,39,1,0,1680573043,"~/benson.sh"
+-'  1  0  ~/benson.sh
+|4,39,1,0,1680573043,"~/benson.sh"
+-'  1  0  ~/benson.sh
+|4,39,1,0,1680573043,"~/benson.sh"
+-'  1  0  ~/benson.sh
+|4,39,1,0,1680573043,"~/benson.sh"
+-'  1  0  ~/benson.sh
+|4,39,1,0,1680573043,"~/benson.sh"
+-'  1  0  ~/benson.sh
+|4,39,1,0,1680573043,"~/benson.sh"
+-'  1  0  ~/benson.sh
+|4,39,1,0,1680573043,"~/benson.sh"
 -'  1  0  ~/benson.sh
 |4,39,1,0,1680573043,"~/benson.sh"
 -'  1  0  ~/benson.sh
@@ -97,6 +165,13 @@
 |4,39,1,0,1680573043,"~/benson.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/git-history.sh
+	*	1680760032	0
+	"	39	13
+	^	39	14
+	.	39	13
+	+	39	13
 
 > ~/maven-history.java
 	*	1680758700	0
