@@ -59,3 +59,63 @@ git push payment-service --all
 history
 vim --version
 vim -version
+su - git
+ll
+git init
+git remote -v
+git status
+git add .
+git status
+git commit -a -m "testing line"
+git branch
+git push payment-service master
+vim benson.sh
+git status
+git remote -v
+ll
+cat benson.sh 
+git status
+git add .
+git status
+git branch
+git commmit -m "Engr Chris Project"
+git commmit -a -m "Engr Chris Project"
+git commmit "Engr Chris Project"
+git commit -m "Engr Chris Project"
+git push --all
+git push pay master
+git pull https://github.com/nktech2023/jcpenny master
+mkdir chris
+ll
+cd chris/
+ll
+git pull https://github.com/nktech2023/jcpenny master
+git pull https://github.com/nktech2023/jcpenny
+git pull sales https://github.com/nktech2023/jcpenny master
+ll
+git remote -v
+git remote add sales https://github.com/nktech2023/jcpenny
+ll
+git remote -v
+vim group12.yml
+git status
+ll
+git add .
+git status
+git add *
+git status
+git branch
+git commit -m "Engr Femi Commit"
+git push sales master
+git push https://github.com/nktech2023/jcpenny master 
+git pull https://github.com/nktech2023/jcpenny
+git pull https://github.com/nktech2023/jcpenny master
+ll
+git config --global
+clear
+git status
+git add --all
+git status
+git remote -v
+git push sales master
+git push pay master
