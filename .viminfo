@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1680758274,,"wq"
+|2,0,1680758703,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,22 +25,40 @@
 # Registers:
 
 # File marks:
-'0  66  13  ~/tomcat-history.java
-|4,48,66,13,1680758274,"~/tomcat-history.java"
-'1  34  6  ~/chris/group12.yml
-|4,49,34,6,1680579748,"~/chris/group12.yml"
-'2  4  8  ~/benson.sh
-|4,50,4,8,1680573080,"~/benson.sh"
+'0  67  13  ~/maven-history.java
+|4,48,67,13,1680758703,"~/maven-history.java"
+'1  66  13  ~/tomcat-history.java
+|4,49,66,13,1680758274,"~/tomcat-history.java"
+'2  34  6  ~/chris/group12.yml
+|4,50,34,6,1680579748,"~/chris/group12.yml"
+'3  4  8  ~/benson.sh
+|4,51,4,8,1680573080,"~/benson.sh"
 
 # Jumplist (newest first):
+-'  67  13  ~/maven-history.java
+|4,39,67,13,1680758703,"~/maven-history.java"
+-'  1  0  ~/maven-history.java
+|4,39,1,0,1680758695,"~/maven-history.java"
 -'  66  13  ~/tomcat-history.java
 |4,39,66,13,1680758274,"~/tomcat-history.java"
+-'  66  13  ~/tomcat-history.java
+|4,39,66,13,1680758274,"~/tomcat-history.java"
+-'  1  0  ~/tomcat-history.java
+|4,39,1,0,1680758258,"~/tomcat-history.java"
 -'  1  0  ~/tomcat-history.java
 |4,39,1,0,1680758258,"~/tomcat-history.java"
 -'  34  6  ~/chris/group12.yml
 |4,39,34,6,1680579748,"~/chris/group12.yml"
 -'  34  6  ~/chris/group12.yml
 |4,39,34,6,1680579748,"~/chris/group12.yml"
+-'  34  6  ~/chris/group12.yml
+|4,39,34,6,1680579748,"~/chris/group12.yml"
+-'  34  6  ~/chris/group12.yml
+|4,39,34,6,1680579748,"~/chris/group12.yml"
+-'  1  0  ~/chris/group12.yml
+|4,39,1,0,1680579714,"~/chris/group12.yml"
+-'  1  0  ~/chris/group12.yml
+|4,39,1,0,1680579714,"~/chris/group12.yml"
 -'  1  0  ~/chris/group12.yml
 |4,39,1,0,1680579714,"~/chris/group12.yml"
 -'  1  0  ~/chris/group12.yml
@@ -53,6 +71,22 @@
 |4,39,4,8,1680573080,"~/benson.sh"
 -'  4  8  ~/benson.sh
 |4,39,4,8,1680573080,"~/benson.sh"
+-'  4  8  ~/benson.sh
+|4,39,4,8,1680573080,"~/benson.sh"
+-'  4  8  ~/benson.sh
+|4,39,4,8,1680573080,"~/benson.sh"
+-'  4  8  ~/benson.sh
+|4,39,4,8,1680573080,"~/benson.sh"
+-'  4  8  ~/benson.sh
+|4,39,4,8,1680573080,"~/benson.sh"
+-'  1  0  ~/benson.sh
+|4,39,1,0,1680573043,"~/benson.sh"
+-'  1  0  ~/benson.sh
+|4,39,1,0,1680573043,"~/benson.sh"
+-'  1  0  ~/benson.sh
+|4,39,1,0,1680573043,"~/benson.sh"
+-'  1  0  ~/benson.sh
+|4,39,1,0,1680573043,"~/benson.sh"
 -'  1  0  ~/benson.sh
 |4,39,1,0,1680573043,"~/benson.sh"
 -'  1  0  ~/benson.sh
@@ -63,6 +97,13 @@
 |4,39,1,0,1680573043,"~/benson.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/maven-history.java
+	*	1680758700	0
+	"	67	13
+	^	67	14
+	.	67	13
+	+	67	13
 
 > ~/tomcat-history.java
 	*	1680758271	0
