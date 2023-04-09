@@ -139,3 +139,19 @@ git add .
 git status
 git commit -m "git history class31 hands-on"
 git push pay --all
+ll
+vi sonar.txt
+git status
+git add *
+git status
+git add *
+git status
+git remote -v
+git commit -m "sonar runbook"
+git push pay master
+vi sonar.txt 
+git status
+git add .
+git status
+git commit -m "all sonar history runbook"
+git push pay master

@@ -11,10 +11,10 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
+:wq
+|2,0,1681084741,,"wq"
 :wq!
 |2,0,1681010786,,"wq!"
-:wq
-|2,0,1680760029,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -27,34 +27,46 @@
 # Registers:
 
 # File marks:
-'0  8  17  ~/sonar.txt
-|4,48,8,17,1681010786,"~/sonar.txt"
-'1  48  121  ~/sonar.txt
-|4,49,48,121,1681009946,"~/sonar.txt"
-'2  40  121  ~/sonar.txt
-|4,50,40,121,1681009946,"~/sonar.txt"
-'3  48  121  ~/sonar.txt
-|4,51,48,121,1681009938,"~/sonar.txt"
-'4  40  121  ~/sonar.txt
-|4,52,40,121,1681009938,"~/sonar.txt"
-'5  164  9  ~/git-history.sh
-|4,53,164,9,1680768113,"~/git-history.sh"
-'6  62  12  ~/git-history.sh
-|4,54,62,12,1680768113,"~/git-history.sh"
-'7  39  13  ~/git-history.sh
-|4,55,39,13,1680760041,"~/git-history.sh"
-'8  67  13  ~/maven-history.java
-|4,56,67,13,1680758703,"~/maven-history.java"
-'9  66  13  ~/tomcat-history.java
-|4,57,66,13,1680758274,"~/tomcat-history.java"
+'0  39  31  ~/nexus-history.txt
+|4,48,39,31,1681084741,"~/nexus-history.txt"
+'1  8  17  ~/sonar.txt
+|4,49,8,17,1681010786,"~/sonar.txt"
+'2  48  121  ~/sonar.txt
+|4,50,48,121,1681009946,"~/sonar.txt"
+'3  40  121  ~/sonar.txt
+|4,51,40,121,1681009946,"~/sonar.txt"
+'4  48  121  ~/sonar.txt
+|4,52,48,121,1681009938,"~/sonar.txt"
+'5  40  121  ~/sonar.txt
+|4,53,40,121,1681009938,"~/sonar.txt"
+'6  164  9  ~/git-history.sh
+|4,54,164,9,1680768113,"~/git-history.sh"
+'7  62  12  ~/git-history.sh
+|4,55,62,12,1680768113,"~/git-history.sh"
+'8  39  13  ~/git-history.sh
+|4,56,39,13,1680760041,"~/git-history.sh"
+'9  67  13  ~/maven-history.java
+|4,57,67,13,1680758703,"~/maven-history.java"
 
 # Jumplist (newest first):
+-'  39  31  ~/nexus-history.txt
+|4,39,39,31,1681084741,"~/nexus-history.txt"
+-'  1  0  ~/nexus-history.txt
+|4,39,1,0,1681084584,"~/nexus-history.txt"
+-'  8  17  ~/sonar.txt
+|4,39,8,17,1681010786,"~/sonar.txt"
 -'  8  17  ~/sonar.txt
 |4,39,8,17,1681010786,"~/sonar.txt"
 -'  48  121  ~/sonar.txt
 |4,39,48,121,1681010471,"~/sonar.txt"
+-'  48  121  ~/sonar.txt
+|4,39,48,121,1681010471,"~/sonar.txt"
 -'  40  121  ~/sonar.txt
 |4,39,40,121,1681009946,"~/sonar.txt"
+-'  40  121  ~/sonar.txt
+|4,39,40,121,1681009946,"~/sonar.txt"
+-'  40  121  ~/sonar.txt
+|4,39,40,121,1681009938,"~/sonar.txt"
 -'  40  121  ~/sonar.txt
 |4,39,40,121,1681009938,"~/sonar.txt"
 -'  1  0  ~/sonar.txt
@@ -63,6 +75,44 @@
 |4,39,1,0,1681009802,"~/sonar.txt"
 -'  1  0  ~/sonar.txt
 |4,39,1,0,1681009802,"~/sonar.txt"
+-'  1  0  ~/sonar.txt
+|4,39,1,0,1681009802,"~/sonar.txt"
+-'  1  0  ~/sonar.txt
+|4,39,1,0,1681009802,"~/sonar.txt"
+-'  1  0  ~/sonar.txt
+|4,39,1,0,1681009802,"~/sonar.txt"
+-'  164  9  ~/git-history.sh
+|4,39,164,9,1680768113,"~/git-history.sh"
+-'  62  12  ~/git-history.sh
+|4,39,62,12,1680768113,"~/git-history.sh"
+-'  164  9  ~/git-history.sh
+|4,39,164,9,1680768113,"~/git-history.sh"
+-'  62  12  ~/git-history.sh
+|4,39,62,12,1680768113,"~/git-history.sh"
+-'  164  9  ~/git-history.sh
+|4,39,164,9,1680768113,"~/git-history.sh"
+-'  62  12  ~/git-history.sh
+|4,39,62,12,1680768113,"~/git-history.sh"
+-'  164  9  ~/git-history.sh
+|4,39,164,9,1680768113,"~/git-history.sh"
+-'  62  12  ~/git-history.sh
+|4,39,62,12,1680768113,"~/git-history.sh"
+-'  164  9  ~/git-history.sh
+|4,39,164,9,1680768113,"~/git-history.sh"
+-'  62  12  ~/git-history.sh
+|4,39,62,12,1680768113,"~/git-history.sh"
+-'  164  9  ~/git-history.sh
+|4,39,164,9,1680768113,"~/git-history.sh"
+-'  62  12  ~/git-history.sh
+|4,39,62,12,1680768113,"~/git-history.sh"
+-'  164  9  ~/git-history.sh
+|4,39,164,9,1680768113,"~/git-history.sh"
+-'  62  12  ~/git-history.sh
+|4,39,62,12,1680768113,"~/git-history.sh"
+-'  164  9  ~/git-history.sh
+|4,39,164,9,1680768113,"~/git-history.sh"
+-'  62  12  ~/git-history.sh
+|4,39,62,12,1680768113,"~/git-history.sh"
 -'  164  9  ~/git-history.sh
 |4,39,164,9,1680768113,"~/git-history.sh"
 -'  62  12  ~/git-history.sh
@@ -111,6 +161,38 @@
 |4,39,39,13,1680760041,"~/git-history.sh"
 -'  39  13  ~/git-history.sh
 |4,39,39,13,1680760041,"~/git-history.sh"
+-'  39  13  ~/git-history.sh
+|4,39,39,13,1680760041,"~/git-history.sh"
+-'  39  13  ~/git-history.sh
+|4,39,39,13,1680760041,"~/git-history.sh"
+-'  39  13  ~/git-history.sh
+|4,39,39,13,1680760041,"~/git-history.sh"
+-'  39  13  ~/git-history.sh
+|4,39,39,13,1680760041,"~/git-history.sh"
+-'  39  13  ~/git-history.sh
+|4,39,39,13,1680760041,"~/git-history.sh"
+-'  39  13  ~/git-history.sh
+|4,39,39,13,1680760041,"~/git-history.sh"
+-'  39  13  ~/git-history.sh
+|4,39,39,13,1680760041,"~/git-history.sh"
+-'  39  13  ~/git-history.sh
+|4,39,39,13,1680760041,"~/git-history.sh"
+-'  1  0  ~/git-history.sh
+|4,39,1,0,1680759661,"~/git-history.sh"
+-'  1  0  ~/git-history.sh
+|4,39,1,0,1680759661,"~/git-history.sh"
+-'  1  0  ~/git-history.sh
+|4,39,1,0,1680759661,"~/git-history.sh"
+-'  1  0  ~/git-history.sh
+|4,39,1,0,1680759661,"~/git-history.sh"
+-'  1  0  ~/git-history.sh
+|4,39,1,0,1680759661,"~/git-history.sh"
+-'  1  0  ~/git-history.sh
+|4,39,1,0,1680759661,"~/git-history.sh"
+-'  1  0  ~/git-history.sh
+|4,39,1,0,1680759661,"~/git-history.sh"
+-'  1  0  ~/git-history.sh
+|4,39,1,0,1680759661,"~/git-history.sh"
 -'  1  0  ~/git-history.sh
 |4,39,1,0,1680759661,"~/git-history.sh"
 -'  1  0  ~/git-history.sh
@@ -144,7 +226,21 @@
 -'  1  0  ~/git-history.sh
 |4,39,1,0,1680759531,"~/git-history.sh"
 -'  1  0  ~/git-history.sh
-|4,39,1,0,1680759474,"~/git-history.sh"
+|4,39,1,0,1680759531,"~/git-history.sh"
+-'  1  0  ~/git-history.sh
+|4,39,1,0,1680759531,"~/git-history.sh"
+-'  1  0  ~/git-history.sh
+|4,39,1,0,1680759531,"~/git-history.sh"
+-'  1  0  ~/git-history.sh
+|4,39,1,0,1680759531,"~/git-history.sh"
+-'  1  0  ~/git-history.sh
+|4,39,1,0,1680759531,"~/git-history.sh"
+-'  1  0  ~/git-history.sh
+|4,39,1,0,1680759531,"~/git-history.sh"
+-'  1  0  ~/git-history.sh
+|4,39,1,0,1680759531,"~/git-history.sh"
+-'  1  0  ~/git-history.sh
+|4,39,1,0,1680759531,"~/git-history.sh"
 -'  1  0  ~/git-history.sh
 |4,39,1,0,1680759474,"~/git-history.sh"
 -'  1  0  ~/git-history.sh
@@ -153,104 +249,21 @@
 |4,39,1,0,1680759474,"~/git-history.sh"
 -'  1  0  ~/git-history.sh
 |4,39,1,0,1680759474,"~/git-history.sh"
--'  1  0  ~/git-history.sh
-|4,39,1,0,1680759474,"~/git-history.sh"
--'  1  0  ~/git-history.sh
-|4,39,1,0,1680759474,"~/git-history.sh"
--'  1  0  ~/git-history.sh
-|4,39,1,0,1680759474,"~/git-history.sh"
--'  67  13  ~/maven-history.java
-|4,39,67,13,1680758703,"~/maven-history.java"
--'  67  13  ~/maven-history.java
-|4,39,67,13,1680758703,"~/maven-history.java"
--'  67  13  ~/maven-history.java
-|4,39,67,13,1680758703,"~/maven-history.java"
--'  67  13  ~/maven-history.java
-|4,39,67,13,1680758703,"~/maven-history.java"
--'  67  13  ~/maven-history.java
-|4,39,67,13,1680758703,"~/maven-history.java"
--'  67  13  ~/maven-history.java
-|4,39,67,13,1680758703,"~/maven-history.java"
--'  67  13  ~/maven-history.java
-|4,39,67,13,1680758703,"~/maven-history.java"
--'  67  13  ~/maven-history.java
-|4,39,67,13,1680758703,"~/maven-history.java"
--'  67  13  ~/maven-history.java
-|4,39,67,13,1680758703,"~/maven-history.java"
--'  67  13  ~/maven-history.java
-|4,39,67,13,1680758703,"~/maven-history.java"
--'  67  13  ~/maven-history.java
-|4,39,67,13,1680758703,"~/maven-history.java"
--'  67  13  ~/maven-history.java
-|4,39,67,13,1680758703,"~/maven-history.java"
--'  67  13  ~/maven-history.java
-|4,39,67,13,1680758703,"~/maven-history.java"
--'  67  13  ~/maven-history.java
-|4,39,67,13,1680758703,"~/maven-history.java"
--'  67  13  ~/maven-history.java
-|4,39,67,13,1680758703,"~/maven-history.java"
--'  67  13  ~/maven-history.java
-|4,39,67,13,1680758703,"~/maven-history.java"
--'  67  13  ~/maven-history.java
-|4,39,67,13,1680758703,"~/maven-history.java"
--'  67  13  ~/maven-history.java
-|4,39,67,13,1680758703,"~/maven-history.java"
--'  67  13  ~/maven-history.java
-|4,39,67,13,1680758703,"~/maven-history.java"
--'  67  13  ~/maven-history.java
-|4,39,67,13,1680758703,"~/maven-history.java"
--'  67  13  ~/maven-history.java
-|4,39,67,13,1680758703,"~/maven-history.java"
--'  67  13  ~/maven-history.java
-|4,39,67,13,1680758703,"~/maven-history.java"
--'  67  13  ~/maven-history.java
-|4,39,67,13,1680758703,"~/maven-history.java"
--'  67  13  ~/maven-history.java
-|4,39,67,13,1680758703,"~/maven-history.java"
--'  67  13  ~/maven-history.java
-|4,39,67,13,1680758703,"~/maven-history.java"
--'  67  13  ~/maven-history.java
-|4,39,67,13,1680758703,"~/maven-history.java"
--'  67  13  ~/maven-history.java
-|4,39,67,13,1680758703,"~/maven-history.java"
--'  67  13  ~/maven-history.java
-|4,39,67,13,1680758703,"~/maven-history.java"
--'  67  13  ~/maven-history.java
-|4,39,67,13,1680758703,"~/maven-history.java"
--'  67  13  ~/maven-history.java
-|4,39,67,13,1680758703,"~/maven-history.java"
--'  67  13  ~/maven-history.java
-|4,39,67,13,1680758703,"~/maven-history.java"
--'  67  13  ~/maven-history.java
-|4,39,67,13,1680758703,"~/maven-history.java"
--'  1  0  ~/maven-history.java
-|4,39,1,0,1680758695,"~/maven-history.java"
--'  1  0  ~/maven-history.java
-|4,39,1,0,1680758695,"~/maven-history.java"
--'  1  0  ~/maven-history.java
-|4,39,1,0,1680758695,"~/maven-history.java"
--'  1  0  ~/maven-history.java
-|4,39,1,0,1680758695,"~/maven-history.java"
--'  1  0  ~/maven-history.java
-|4,39,1,0,1680758695,"~/maven-history.java"
--'  1  0  ~/maven-history.java
-|4,39,1,0,1680758695,"~/maven-history.java"
--'  1  0  ~/maven-history.java
-|4,39,1,0,1680758695,"~/maven-history.java"
--'  1  0  ~/maven-history.java
-|4,39,1,0,1680758695,"~/maven-history.java"
--'  1  0  ~/maven-history.java
-|4,39,1,0,1680758695,"~/maven-history.java"
--'  1  0  ~/maven-history.java
-|4,39,1,0,1680758695,"~/maven-history.java"
--'  1  0  ~/maven-history.java
-|4,39,1,0,1680758695,"~/maven-history.java"
--'  1  0  ~/maven-history.java
-|4,39,1,0,1680758695,"~/maven-history.java"
--'  1  0  ~/maven-history.java
-|4,39,1,0,1680758695,"~/maven-history.java"
 
 # History of marks within files (newest to oldest):
+
+> ~/nexus-history.txt
+	*	1681084739	0
+	"	39	31
+	^	39	32
+	.	39	31
+	+	67	13
+	+	40	0
+	+	6	47
+	+	4	46
+	+	5	0
+	+	14	15
+	+	39	31
 
 > ~/sonar.txt
 	*	1681010783	0
