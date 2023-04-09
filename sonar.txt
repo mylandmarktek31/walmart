@@ -1,0 +1,40 @@
+    1  sudo passwd sonar
+    2  sudo sed -i "/^[^#]*PasswordAuthentication[[:space:]]no/c\PasswordAuthentication yes" /etc/ssh/sshd_config
+    3  sudo service sshd restart
+    4  cd /opt
+    5  sudo yum -y install unzip wget git
+    6  sudo yum install  java-11-openjdk-devel
+    7  sudo wget https://binaries.sonarsource.com/Distribution/sonarqube/sonarqube-7.8.zip
+    8  sudo unzip sonarqube-7.8.zip
+    9  ll
+   10  sudo rm -rf sonarqube-7.8.zip
+   11  ll
+   12  sudo mv sonarqube-7.8 sonarqube
+   13  sudo chown -R sonar:sonar /opt/sonarqube/
+   14  sudo chown -R 775 /opt/sonarqube/
+   15  sh /opt/sonarqube/bin/linux-x86-64/sonar.sh start
+   16  sudo chown -R sonar:sonar /opt/sonarqube/
+   17  sudo chmod -R 775 /opt/sonarqube/
+   18  sh /opt/sonarqube/bin/linux-x86-64/sonar.sh start
+   19  sh /opt/sonarqube/bin/linux-x86-64/sonar.sh status
+   20  curl -v localhost:9000
+   21  default USERNAME: admin
+   22  ll
+   23  ls sonarqube/
+   24  ls sonarqube/bin/
+   25  ls sonarqube/bin/linux-x86-64/
+   26  sudo find / -name sonar.sh
+   27  cat sonarqube/bin/linux-x86-64/sonar.sh
+   28  git --version
+   29  vim --version
+   30  sonar --version
+   31  sonarqube --version
+   32  sonarqube -version
+   33  curl localhost:9000
+   34  clear
+   35  status
+   36  date
+   37  sudo timedatectl set-timezone America/New_York
+   38  date
+   39  history
+Go to Maven Server and vi pom.xml then change the local host to sonar private ip. You are all set to build mvn sonar:sonar
