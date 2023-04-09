@@ -119,3 +119,23 @@ git status
 git remote -v
 git push sales master
 git push pay master
+vi tomcat-history.java
+git status
+git add .
+git status
+git commit -m "tomcat history class31 hands-on"
+git push pay --all
+vi maven-history.java
+git status
+git all .
+git add .
+git status 
+git push pay --all
+git commit -m "maven history class31 hands-on"
+git push pay --all
+vi git-history.sh
+git status
+git add .
+git status
+git commit -m "git history class31 hands-on"
+git push pay --all

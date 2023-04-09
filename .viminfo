@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1680760041,,"wq!"
+|2,0,1681010786,,"wq!"
 :wq
 |2,0,1680760029,,"wq"
 
@@ -27,22 +27,198 @@
 # Registers:
 
 # File marks:
-'0  39  13  ~/git-history.sh
-|4,48,39,13,1680760041,"~/git-history.sh"
-'1  67  13  ~/maven-history.java
-|4,49,67,13,1680758703,"~/maven-history.java"
-'2  66  13  ~/tomcat-history.java
-|4,50,66,13,1680758274,"~/tomcat-history.java"
-'3  34  6  ~/chris/group12.yml
-|4,51,34,6,1680579748,"~/chris/group12.yml"
-'4  4  8  ~/benson.sh
-|4,52,4,8,1680573080,"~/benson.sh"
+'0  8  17  ~/sonar.txt
+|4,48,8,17,1681010786,"~/sonar.txt"
+'1  48  121  ~/sonar.txt
+|4,49,48,121,1681009946,"~/sonar.txt"
+'2  40  121  ~/sonar.txt
+|4,50,40,121,1681009946,"~/sonar.txt"
+'3  48  121  ~/sonar.txt
+|4,51,48,121,1681009938,"~/sonar.txt"
+'4  40  121  ~/sonar.txt
+|4,52,40,121,1681009938,"~/sonar.txt"
+'5  164  9  ~/git-history.sh
+|4,53,164,9,1680768113,"~/git-history.sh"
+'6  62  12  ~/git-history.sh
+|4,54,62,12,1680768113,"~/git-history.sh"
+'7  39  13  ~/git-history.sh
+|4,55,39,13,1680760041,"~/git-history.sh"
+'8  67  13  ~/maven-history.java
+|4,56,67,13,1680758703,"~/maven-history.java"
+'9  66  13  ~/tomcat-history.java
+|4,57,66,13,1680758274,"~/tomcat-history.java"
 
 # Jumplist (newest first):
+-'  8  17  ~/sonar.txt
+|4,39,8,17,1681010786,"~/sonar.txt"
+-'  48  121  ~/sonar.txt
+|4,39,48,121,1681010471,"~/sonar.txt"
+-'  40  121  ~/sonar.txt
+|4,39,40,121,1681009946,"~/sonar.txt"
+-'  40  121  ~/sonar.txt
+|4,39,40,121,1681009938,"~/sonar.txt"
+-'  1  0  ~/sonar.txt
+|4,39,1,0,1681009802,"~/sonar.txt"
+-'  1  0  ~/sonar.txt
+|4,39,1,0,1681009802,"~/sonar.txt"
+-'  1  0  ~/sonar.txt
+|4,39,1,0,1681009802,"~/sonar.txt"
+-'  164  9  ~/git-history.sh
+|4,39,164,9,1680768113,"~/git-history.sh"
+-'  62  12  ~/git-history.sh
+|4,39,62,12,1680768113,"~/git-history.sh"
+-'  164  9  ~/git-history.sh
+|4,39,164,9,1680768113,"~/git-history.sh"
+-'  62  12  ~/git-history.sh
+|4,39,62,12,1680768113,"~/git-history.sh"
+-'  164  9  ~/git-history.sh
+|4,39,164,9,1680768113,"~/git-history.sh"
+-'  62  12  ~/git-history.sh
+|4,39,62,12,1680768113,"~/git-history.sh"
+-'  164  9  ~/git-history.sh
+|4,39,164,9,1680768113,"~/git-history.sh"
+-'  62  12  ~/git-history.sh
+|4,39,62,12,1680768113,"~/git-history.sh"
+-'  164  9  ~/git-history.sh
+|4,39,164,9,1680768113,"~/git-history.sh"
+-'  62  12  ~/git-history.sh
+|4,39,62,12,1680768113,"~/git-history.sh"
+-'  164  9  ~/git-history.sh
+|4,39,164,9,1680768113,"~/git-history.sh"
+-'  62  12  ~/git-history.sh
+|4,39,62,12,1680768113,"~/git-history.sh"
+-'  164  9  ~/git-history.sh
+|4,39,164,9,1680768113,"~/git-history.sh"
+-'  62  12  ~/git-history.sh
+|4,39,62,12,1680768113,"~/git-history.sh"
+-'  164  9  ~/git-history.sh
+|4,39,164,9,1680768113,"~/git-history.sh"
+-'  62  12  ~/git-history.sh
+|4,39,62,12,1680768113,"~/git-history.sh"
+-'  39  13  ~/git-history.sh
+|4,39,39,13,1680760041,"~/git-history.sh"
+-'  39  13  ~/git-history.sh
+|4,39,39,13,1680760041,"~/git-history.sh"
+-'  39  13  ~/git-history.sh
+|4,39,39,13,1680760041,"~/git-history.sh"
+-'  39  13  ~/git-history.sh
+|4,39,39,13,1680760041,"~/git-history.sh"
+-'  39  13  ~/git-history.sh
+|4,39,39,13,1680760041,"~/git-history.sh"
+-'  39  13  ~/git-history.sh
+|4,39,39,13,1680760041,"~/git-history.sh"
+-'  39  13  ~/git-history.sh
+|4,39,39,13,1680760041,"~/git-history.sh"
 -'  39  13  ~/git-history.sh
 |4,39,39,13,1680760041,"~/git-history.sh"
 -'  1  0  ~/git-history.sh
 |4,39,1,0,1680759661,"~/git-history.sh"
+-'  1  0  ~/git-history.sh
+|4,39,1,0,1680759661,"~/git-history.sh"
+-'  1  0  ~/git-history.sh
+|4,39,1,0,1680759661,"~/git-history.sh"
+-'  1  0  ~/git-history.sh
+|4,39,1,0,1680759661,"~/git-history.sh"
+-'  1  0  ~/git-history.sh
+|4,39,1,0,1680759661,"~/git-history.sh"
+-'  1  0  ~/git-history.sh
+|4,39,1,0,1680759661,"~/git-history.sh"
+-'  1  0  ~/git-history.sh
+|4,39,1,0,1680759661,"~/git-history.sh"
+-'  1  0  ~/git-history.sh
+|4,39,1,0,1680759661,"~/git-history.sh"
+-'  1  0  ~/git-history.sh
+|4,39,1,0,1680759531,"~/git-history.sh"
+-'  1  0  ~/git-history.sh
+|4,39,1,0,1680759531,"~/git-history.sh"
+-'  1  0  ~/git-history.sh
+|4,39,1,0,1680759531,"~/git-history.sh"
+-'  1  0  ~/git-history.sh
+|4,39,1,0,1680759531,"~/git-history.sh"
+-'  1  0  ~/git-history.sh
+|4,39,1,0,1680759531,"~/git-history.sh"
+-'  1  0  ~/git-history.sh
+|4,39,1,0,1680759531,"~/git-history.sh"
+-'  1  0  ~/git-history.sh
+|4,39,1,0,1680759531,"~/git-history.sh"
+-'  1  0  ~/git-history.sh
+|4,39,1,0,1680759531,"~/git-history.sh"
+-'  1  0  ~/git-history.sh
+|4,39,1,0,1680759474,"~/git-history.sh"
+-'  1  0  ~/git-history.sh
+|4,39,1,0,1680759474,"~/git-history.sh"
+-'  1  0  ~/git-history.sh
+|4,39,1,0,1680759474,"~/git-history.sh"
+-'  1  0  ~/git-history.sh
+|4,39,1,0,1680759474,"~/git-history.sh"
+-'  1  0  ~/git-history.sh
+|4,39,1,0,1680759474,"~/git-history.sh"
+-'  1  0  ~/git-history.sh
+|4,39,1,0,1680759474,"~/git-history.sh"
+-'  1  0  ~/git-history.sh
+|4,39,1,0,1680759474,"~/git-history.sh"
+-'  1  0  ~/git-history.sh
+|4,39,1,0,1680759474,"~/git-history.sh"
+-'  67  13  ~/maven-history.java
+|4,39,67,13,1680758703,"~/maven-history.java"
+-'  67  13  ~/maven-history.java
+|4,39,67,13,1680758703,"~/maven-history.java"
+-'  67  13  ~/maven-history.java
+|4,39,67,13,1680758703,"~/maven-history.java"
+-'  67  13  ~/maven-history.java
+|4,39,67,13,1680758703,"~/maven-history.java"
+-'  67  13  ~/maven-history.java
+|4,39,67,13,1680758703,"~/maven-history.java"
+-'  67  13  ~/maven-history.java
+|4,39,67,13,1680758703,"~/maven-history.java"
+-'  67  13  ~/maven-history.java
+|4,39,67,13,1680758703,"~/maven-history.java"
+-'  67  13  ~/maven-history.java
+|4,39,67,13,1680758703,"~/maven-history.java"
+-'  67  13  ~/maven-history.java
+|4,39,67,13,1680758703,"~/maven-history.java"
+-'  67  13  ~/maven-history.java
+|4,39,67,13,1680758703,"~/maven-history.java"
+-'  67  13  ~/maven-history.java
+|4,39,67,13,1680758703,"~/maven-history.java"
+-'  67  13  ~/maven-history.java
+|4,39,67,13,1680758703,"~/maven-history.java"
+-'  67  13  ~/maven-history.java
+|4,39,67,13,1680758703,"~/maven-history.java"
+-'  67  13  ~/maven-history.java
+|4,39,67,13,1680758703,"~/maven-history.java"
+-'  67  13  ~/maven-history.java
+|4,39,67,13,1680758703,"~/maven-history.java"
+-'  67  13  ~/maven-history.java
+|4,39,67,13,1680758703,"~/maven-history.java"
+-'  67  13  ~/maven-history.java
+|4,39,67,13,1680758703,"~/maven-history.java"
+-'  67  13  ~/maven-history.java
+|4,39,67,13,1680758703,"~/maven-history.java"
+-'  67  13  ~/maven-history.java
+|4,39,67,13,1680758703,"~/maven-history.java"
+-'  67  13  ~/maven-history.java
+|4,39,67,13,1680758703,"~/maven-history.java"
+-'  67  13  ~/maven-history.java
+|4,39,67,13,1680758703,"~/maven-history.java"
+-'  67  13  ~/maven-history.java
+|4,39,67,13,1680758703,"~/maven-history.java"
+-'  67  13  ~/maven-history.java
+|4,39,67,13,1680758703,"~/maven-history.java"
+-'  67  13  ~/maven-history.java
+|4,39,67,13,1680758703,"~/maven-history.java"
+-'  67  13  ~/maven-history.java
+|4,39,67,13,1680758703,"~/maven-history.java"
+-'  67  13  ~/maven-history.java
+|4,39,67,13,1680758703,"~/maven-history.java"
+-'  67  13  ~/maven-history.java
+|4,39,67,13,1680758703,"~/maven-history.java"
+-'  67  13  ~/maven-history.java
+|4,39,67,13,1680758703,"~/maven-history.java"
+-'  67  13  ~/maven-history.java
+|4,39,67,13,1680758703,"~/maven-history.java"
+-'  67  13  ~/maven-history.java
+|4,39,67,13,1680758703,"~/maven-history.java"
 -'  67  13  ~/maven-history.java
 |4,39,67,13,1680758703,"~/maven-history.java"
 -'  67  13  ~/maven-history.java
@@ -51,127 +227,56 @@
 |4,39,1,0,1680758695,"~/maven-history.java"
 -'  1  0  ~/maven-history.java
 |4,39,1,0,1680758695,"~/maven-history.java"
--'  66  13  ~/tomcat-history.java
-|4,39,66,13,1680758274,"~/tomcat-history.java"
--'  66  13  ~/tomcat-history.java
-|4,39,66,13,1680758274,"~/tomcat-history.java"
--'  66  13  ~/tomcat-history.java
-|4,39,66,13,1680758274,"~/tomcat-history.java"
--'  66  13  ~/tomcat-history.java
-|4,39,66,13,1680758274,"~/tomcat-history.java"
--'  1  0  ~/tomcat-history.java
-|4,39,1,0,1680758258,"~/tomcat-history.java"
--'  1  0  ~/tomcat-history.java
-|4,39,1,0,1680758258,"~/tomcat-history.java"
--'  1  0  ~/tomcat-history.java
-|4,39,1,0,1680758258,"~/tomcat-history.java"
--'  1  0  ~/tomcat-history.java
-|4,39,1,0,1680758258,"~/tomcat-history.java"
--'  34  6  ~/chris/group12.yml
-|4,39,34,6,1680579748,"~/chris/group12.yml"
--'  34  6  ~/chris/group12.yml
-|4,39,34,6,1680579748,"~/chris/group12.yml"
--'  34  6  ~/chris/group12.yml
-|4,39,34,6,1680579748,"~/chris/group12.yml"
--'  34  6  ~/chris/group12.yml
-|4,39,34,6,1680579748,"~/chris/group12.yml"
--'  34  6  ~/chris/group12.yml
-|4,39,34,6,1680579748,"~/chris/group12.yml"
--'  34  6  ~/chris/group12.yml
-|4,39,34,6,1680579748,"~/chris/group12.yml"
--'  34  6  ~/chris/group12.yml
-|4,39,34,6,1680579748,"~/chris/group12.yml"
--'  34  6  ~/chris/group12.yml
-|4,39,34,6,1680579748,"~/chris/group12.yml"
--'  1  0  ~/chris/group12.yml
-|4,39,1,0,1680579714,"~/chris/group12.yml"
--'  1  0  ~/chris/group12.yml
-|4,39,1,0,1680579714,"~/chris/group12.yml"
--'  1  0  ~/chris/group12.yml
-|4,39,1,0,1680579714,"~/chris/group12.yml"
--'  1  0  ~/chris/group12.yml
-|4,39,1,0,1680579714,"~/chris/group12.yml"
--'  1  0  ~/chris/group12.yml
-|4,39,1,0,1680579714,"~/chris/group12.yml"
--'  1  0  ~/chris/group12.yml
-|4,39,1,0,1680579714,"~/chris/group12.yml"
--'  1  0  ~/chris/group12.yml
-|4,39,1,0,1680579714,"~/chris/group12.yml"
--'  1  0  ~/chris/group12.yml
-|4,39,1,0,1680579714,"~/chris/group12.yml"
--'  4  8  ~/benson.sh
-|4,39,4,8,1680573080,"~/benson.sh"
--'  4  8  ~/benson.sh
-|4,39,4,8,1680573080,"~/benson.sh"
--'  4  8  ~/benson.sh
-|4,39,4,8,1680573080,"~/benson.sh"
--'  4  8  ~/benson.sh
-|4,39,4,8,1680573080,"~/benson.sh"
--'  4  8  ~/benson.sh
-|4,39,4,8,1680573080,"~/benson.sh"
--'  4  8  ~/benson.sh
-|4,39,4,8,1680573080,"~/benson.sh"
--'  4  8  ~/benson.sh
-|4,39,4,8,1680573080,"~/benson.sh"
--'  4  8  ~/benson.sh
-|4,39,4,8,1680573080,"~/benson.sh"
--'  4  8  ~/benson.sh
-|4,39,4,8,1680573080,"~/benson.sh"
--'  4  8  ~/benson.sh
-|4,39,4,8,1680573080,"~/benson.sh"
--'  4  8  ~/benson.sh
-|4,39,4,8,1680573080,"~/benson.sh"
--'  4  8  ~/benson.sh
-|4,39,4,8,1680573080,"~/benson.sh"
--'  4  8  ~/benson.sh
-|4,39,4,8,1680573080,"~/benson.sh"
--'  4  8  ~/benson.sh
-|4,39,4,8,1680573080,"~/benson.sh"
--'  4  8  ~/benson.sh
-|4,39,4,8,1680573080,"~/benson.sh"
--'  4  8  ~/benson.sh
-|4,39,4,8,1680573080,"~/benson.sh"
--'  1  0  ~/benson.sh
-|4,39,1,0,1680573043,"~/benson.sh"
--'  1  0  ~/benson.sh
-|4,39,1,0,1680573043,"~/benson.sh"
--'  1  0  ~/benson.sh
-|4,39,1,0,1680573043,"~/benson.sh"
--'  1  0  ~/benson.sh
-|4,39,1,0,1680573043,"~/benson.sh"
--'  1  0  ~/benson.sh
-|4,39,1,0,1680573043,"~/benson.sh"
--'  1  0  ~/benson.sh
-|4,39,1,0,1680573043,"~/benson.sh"
--'  1  0  ~/benson.sh
-|4,39,1,0,1680573043,"~/benson.sh"
--'  1  0  ~/benson.sh
-|4,39,1,0,1680573043,"~/benson.sh"
--'  1  0  ~/benson.sh
-|4,39,1,0,1680573043,"~/benson.sh"
--'  1  0  ~/benson.sh
-|4,39,1,0,1680573043,"~/benson.sh"
--'  1  0  ~/benson.sh
-|4,39,1,0,1680573043,"~/benson.sh"
--'  1  0  ~/benson.sh
-|4,39,1,0,1680573043,"~/benson.sh"
--'  1  0  ~/benson.sh
-|4,39,1,0,1680573043,"~/benson.sh"
--'  1  0  ~/benson.sh
-|4,39,1,0,1680573043,"~/benson.sh"
--'  1  0  ~/benson.sh
-|4,39,1,0,1680573043,"~/benson.sh"
--'  1  0  ~/benson.sh
-|4,39,1,0,1680573043,"~/benson.sh"
+-'  1  0  ~/maven-history.java
+|4,39,1,0,1680758695,"~/maven-history.java"
+-'  1  0  ~/maven-history.java
+|4,39,1,0,1680758695,"~/maven-history.java"
+-'  1  0  ~/maven-history.java
+|4,39,1,0,1680758695,"~/maven-history.java"
+-'  1  0  ~/maven-history.java
+|4,39,1,0,1680758695,"~/maven-history.java"
+-'  1  0  ~/maven-history.java
+|4,39,1,0,1680758695,"~/maven-history.java"
+-'  1  0  ~/maven-history.java
+|4,39,1,0,1680758695,"~/maven-history.java"
+-'  1  0  ~/maven-history.java
+|4,39,1,0,1680758695,"~/maven-history.java"
+-'  1  0  ~/maven-history.java
+|4,39,1,0,1680758695,"~/maven-history.java"
+-'  1  0  ~/maven-history.java
+|4,39,1,0,1680758695,"~/maven-history.java"
+-'  1  0  ~/maven-history.java
+|4,39,1,0,1680758695,"~/maven-history.java"
+-'  1  0  ~/maven-history.java
+|4,39,1,0,1680758695,"~/maven-history.java"
 
 # History of marks within files (newest to oldest):
 
+> ~/sonar.txt
+	*	1681010783	0
+	"	8	17
+	^	8	18
+	.	9	0
+	+	48	121
+	+	5	2
+	+	4	37
+	+	2	2
+	+	3	49
+	+	3	54
+	+	4	2
+	+	9	2
+	+	8	0
+	+	6	74
+	+	7	37
+	+	8	18
+	+	9	0
+
 > ~/git-history.sh
-	*	1680760032	0
-	"	39	13
-	^	39	14
-	.	39	13
-	+	39	13
+	*	1680759526	0
+	"	164	9
+	^	164	10
+	.	164	10
+	+	164	10
 
 > ~/maven-history.java
 	*	1680758700	0
