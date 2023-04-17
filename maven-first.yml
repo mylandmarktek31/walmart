@@ -1,0 +1,49 @@
+1 cd /opt
+2 sudo yum install wget nano tree unzip git-all -y
+4 clear
+5 sudo yum install java-11-openjdk-devel java-1.8.0-openjdk-devel -y
+6 java -version
+7 git --version
+8 clear
+9 sudo wget https://dlcdn.apache.org/maven/maven-3/3.9.1/binaries/apache-maven-3.9.1-bin.zip
+10 ll
+11 sudo unzip apache-maven-3.9.1-bin.zip
+12 clear
+13 ll
+14 sudo rm -rf apache-maven-3.9.1-bin.zip
+15 ll
+16 sudo mv apache-maven-3.9.1/ maven
+17 ll
+18 vi ~/.bash_profile
+19 source ~/.bash_profile
+20 mvn -version
+21 ll
+22 cd java-projects/
+23 mkdir java-projects
+24 ll
+25 sudo mkdir java-projects
+26 ll
+27 cd java-projects/
+57 ll
+58 git clone https://github.com/LandmakTechnology/maven-web-application
+59 mv maven-web-application/ web
+###Change user permission
+65 sudo chown ec2-user
+66 sudo chown ec2-user web
+
+60 sudo mv maven-web-application/ web
+61 ll
+62 sudo git clone https://github.com/LandmakTechnology/maven-web-application
+63 sudo mv maven-web-application/ web
+64 ll
+67 ll
+68 man package
+69 mvn package
+70 clear
+71 ll
+72 cd web/
+73 ll
+74 mvn validate
+75 clear
+76 mvn package
+77 history

@@ -155,3 +155,11 @@ git add .
 git status
 git commit -m "all sonar history runbook"
 git push pay master
+git status
+vi nexus-history.txt
+git status
+git add .
+git status
+git commit -m "nexus history runbook"
+git push pay master
+ll
